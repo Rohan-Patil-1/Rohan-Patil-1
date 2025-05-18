@@ -1,6 +1,21 @@
-<br clear="both">
+<h1 align="left">Hi 👋, I'm Rohan Patil</h1>
+<h3 align="left">Just a simple problem solver.</h3>
 
-<h2 align="left">Hi 👋! My name is Rohan and I'm a problem solver</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-patil-1&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-patil-1" /> </p>
+
+- 🔭 I’m currently working on [Image to Poem Generator](https://github.com/Rohan-Patil-1/Image-to-Poem-Generation-Using-Deep-Generative-Models)
+
+- 🌱 I’m currently learning **Generative AI models**
+
+- 👯 I’m looking to collaborate on [Basic Bitwise Operations in C](https://github.com/Rohan-Patil-1/Basic-Bitwise-Operations-in-C)
+
+- 💬 Ask me about **Robotics, Data Science and Life**
+
+- 📫 How to reach me **rohan.p3001@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S_k6864Rp3ynRhVhVFLVgtQUEobjyLmW/view?usp=sharing](https://drive.google.com/file/d/1S_k6864Rp3ynRhVhVFLVgtQUEobjyLmW/view?usp=sharing)
+
+- ⚡ Fun fact **Enjoying life, coz i was dead serious**
 
 ###
 
@@ -76,6 +91,5 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
-###
+
