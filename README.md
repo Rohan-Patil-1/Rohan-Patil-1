@@ -78,12 +78,5 @@
 
 <p align="left">Hello World!!</p>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ro.lesgo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ro.lesgo&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
