@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-patil-1&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-patil-1" /> </p>
 
-- 🔭 I’m currently working on [Image to Poem Generator](https://github.com/Rohan-Patil-1/Image-to-Poem-Generation-Using-Deep-Generative-Models)
+- 🔭 I have recently completed [Image to Poem Generator](https://github.com/Rohan-Patil-1/Image-to-Poem-Generation-Using-Deep-Generative-Models)
 
 - 🌱 I’m currently learning **Generative AI models**
 
