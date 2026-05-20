@@ -1,79 +1,58 @@
-<h1 align="center">Rohan Patil</h1>
-<h3 align="center">Machine Learning Engineer · AI Researcher · Data Scientist</h3>
 
-<p align="center">
-Graduate Research Assistant @ DePaul University  
-<br>
-NIH-Funded Research · 4× Peer-Reviewed Publications
-</p>
+<h1 align="left">Hi, I'm Rohan Patil</h1>
+<h3 align="left">AI Researcher · ML Engineer · Problem Solver</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohanpatil3001">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohan.p3001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0001-3156-826X">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohan-patil-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I build applied AI systems focused on medical imaging, multimodal deep learning, and clinically interpretable machine learning.
+I build applied machine learning systems focused on:
+- Medical imaging
+- Multimodal deep learning
+- Clinical AI
+- Generative modeling
+- Explainable AI
 
-My work spans:
-- Lung nodule classification using generative and metric-learning pipelines
-- Automated clinical assessment systems
-- Remote Parkinson’s disease motor analysis
-- Scalable multimodal AI for healthcare applications
-
-I’ve published research at SPIE Medical Imaging, IEEE MRTM, and Springer venues, with ongoing NIH-funded projects focused on clinically reliable AI systems.
+Currently working on NIH-funded research involving lung nodule classification, multimodal clinical assessment, and Parkinson’s disease motor analysis.
 
 ---
 
-## Current Research
+## Current Work
+
+_Exploring generative AI, metric learning, and scalable clinical AI systems_
 
 - Siamese Network + VAE framework for spiculated lung nodule classification (LIDC-IDRI)
-- Multimodal deep learning pipeline for automated Foot Posture Index (FPI-6) scoring
-- ViSTa-PD: Cross-modality TCN framework for remote Parkinson’s disease assessment
+- Automated Foot Posture Index (FPI-6) scoring using multimodal deep learning
+- ViSTa-PD: Cross-modality TCN framework for Parkinson’s disease assessment
+
 
 ---
 
 ## Featured Projects
 
+### Image-to-Poem Generator
+Deep generative pipeline for cross-modal image-to-text creative generation.
+
+🔗 https://github.com/Rohan-Patil-1/Image-to-Poem-Generation-Using-Deep-Generative-Models
+
+---
+
 ### Lung Nodule Classification — Siamese + VAE
-- Developed a ResNet-18 VAE pipeline for medical image reconstruction
-- Achieved +5.56 dB PSNR and +25% SSIM improvement
-- Integrated Siamese metric learning for classification refinement
-- Improved sensitivity from 16% → 75%
+ResNet-18 VAE reconstruction pipeline combined with Siamese metric learning for spiculated lung nodule classification.
 
-### Automated Foot Posture Index Scoring
-- Built multimodal pipeline combining ResNet50 + BioClinicalBERT
-- Automated FPI-6 clinical scoring from images and clinical text
-- Integrated Grad-CAM interpretability for clinical validation
-
-### ViSTa-PD — Parkinson’s Disease Motor Assessment
-- Designed TCN-based architecture for video-to-IMU signal translation
-- Generated synthetic IMU representations from 3D pose sequences
-- Enabled remote motor assessment workflows
+---
 
 ### Zero-Shot Industrial Anomaly Detection
-- Built DBSCAN-based deep feature anomaly detection pipeline
-- Achieved 0.828 AUC-ROC across 15 MVTec AD categories
-- Required no anomalous training samples
+DBSCAN-based anomaly detection framework achieving 0.828 AUC-ROC across 15 MVTec AD categories without anomalous training samples.
+
+---
 
 ### Loop Pulse — Economic Impact Dashboard
-- Built predictive analytics dashboard for Chicago Loop economic forecasting
-- Integrated macroeconomic, crime, and regional government datasets
-- Developed interactive visual analytics for trend exploration
-
-### Image-to-Poem Generator
-- Developed cross-modal image-to-text generative pipeline
-- Combined computer vision embeddings with sequence generation models
+Predictive analytics dashboard for Chicago Loop economic forecasting using macroeconomic, crime, and government datasets.
 
 ---
 
@@ -82,41 +61,68 @@ I’ve published research at SPIE Medical Imaging, IEEE MRTM, and Springer venue
 - SPIE Medical Imaging 2026
 - IEEE MRTM 2023
 - Journal of Electrical Systems
-- Additional manuscripts currently under review
+- Additional manuscripts under review
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="pytorch" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="tensorflow" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="opencv" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32" alt="r" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="32" alt="aws" />
+</div>
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Patil-1&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-Patil-1&layout=compact&hide_border=true" height="165" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-Patil-1&locale=en&layout=compact&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph" />
 </p>
 
 ---
 
 ## Connect
 
-- Email: rohan.p3001@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rohanpatil3001
-- ORCID: https://orcid.org/0009-0001-3156-826X
+<div align="left">
+  <a href="mailto:rohan.p3001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rohanpatil3001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin" />
+  </a>
+
+  <a href="https://orcid.org/0009-0001-3156-826X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="orcid" />
+  </a>
+</div>
 
 ---
 
